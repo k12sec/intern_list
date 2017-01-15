@@ -13,3 +13,7 @@ Collection of resources for interns
 * Capture the Flag (CTF)
   * http://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist
   * https://www.vulnhub.com/
+  * CTF Solving Resources
+    * http://quipqiup.com/
+    * https://github.com/gchq/cyberchef
+    * https://github.com/Gallopsled/pwntools
